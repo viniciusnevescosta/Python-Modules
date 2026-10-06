@@ -1,0 +1,18 @@
+[submodule "python-module-01"]
+	path = python-module-01
+	url = https://github.com/viniciusnevescosta/python-module-01.git
+[submodule "python-module-02"]
+	path = python-module-02
+	url = https://github.com/viniciusnevescosta/python-module-02.git
+[submodule "python-module-03"]
+	path = python-module-03
+	url = https://github.com/viniciusnevescosta/python-module-03.git
+[submodule "python-module-04"]
+	path = python-module-04
+	url = https://github.com/viniciusnevescosta/python-module-04.git
+[submodule "python-module-05-bis"]
+	path = python-module-05-bis
+	url = https://github.com/viniciusnevescosta/python-module-05-bis.git
+[submodule "python-module-06-bis"]
+	path = python-module-06-bis
+	url = https://github.com/viniciusnevescosta/python-module-06-bis.git
