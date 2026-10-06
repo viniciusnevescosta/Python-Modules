@@ -16,3 +16,6 @@
 [submodule "python-module-06-bis"]
 	path = python-module-06-bis
 	url = https://github.com/viniciusnevescosta/python-module-06-bis.git
+[submodule "python-module-09"]
+	path = python-module-09
+	url = https://github.com/viniciusnevescosta/python-module-09.git

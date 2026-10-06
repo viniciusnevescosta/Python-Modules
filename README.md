@@ -11,6 +11,7 @@ repositories and linked here as submodules.
 - `python-module-04`: files, streams, and context managers
 - `python-module-05-bis`: environments, dependencies, and packages
 - `python-module-06-bis`: abstract architectures and design patterns
+- `python-module-09`: Pydantic models and data validation
 
 ## Clone
 
@@ -37,3 +38,4 @@ python -m pip install flake8 mypy
 ```
 
 Module 05 declares its additional dependencies in its own requirements files.
+Module 09 requires Pydantic 2.x, as specified by its subject.
